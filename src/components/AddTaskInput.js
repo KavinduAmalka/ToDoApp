@@ -49,11 +49,10 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
     margin:'auto',
-    marginBottom: 20,
+    marginTop:23,
     alignItems: 'center',
     width:345,
     height: 70,
-    top:23,
     gap:8,
   },
   textinputcontainer: {

@@ -127,7 +127,7 @@ All design elements strictly follow the spacing, typography, and color specifica
 
 <img src="./media/Screenshot%202025-04-24%20221059.png" width="200"/>
 <img src="./media/Screenshot%202025-04-24%20221339.png" width="200"/>
-<img src="./media/Screenshot%202025-04-24%20221354png" width="200"/>
+<img src="./media/Screenshot%202025-04-24%20221354.png" width="200"/>
 <img src="./media/Screenshot%202025-04-24%20221419.png" width="200"/>
 <img src="./media/Screenshot%202025-04-24%20221438.png" width="200"/>
 <img src="./media/Screenshot%202025-04-24%20221458.png" width="200"/>

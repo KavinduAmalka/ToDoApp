@@ -125,26 +125,18 @@ All design elements strictly follow the spacing, typography, and color specifica
 
 ## 📸 Screenshot
 
-<<<<<<< HEAD
+![App Screenshot](./media/Screenshot%202025-04-24%20221059.png)
+![App Screenshot](./media/Screenshot%202025-04-24%20221339.png)
+![App Screenshot](./media/Screenshot%202025-04-24%20221354.png)
+![App Screenshot](./media/Screenshot%202025-04-24%20221419.png)
+![App Screenshot](./media/Screenshot%202025-04-24%20221438.png)
+![App Screenshot](./media/Screenshot%202025-04-24%20221458.png)
+![App Screenshot](./media/Screenshot%202025-04-24%20221515.png)
+
+
 ## 🛠️ Technologies Used
 
 - React Native
 - Zustand for state management
 - AsyncStorage for local storage
 - React Native Share API
-=======
-
-## 🛠️ Technologies Used
-
-- React Native
-- Zustand for state management
-- AsyncStorage for local storage
-- React Native Share API
-
-
-
-
-
-
-
->>>>>>> 9eb95910c81d91dec88f97b64a70d15e797c83a4

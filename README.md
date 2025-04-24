@@ -122,6 +122,7 @@ All design elements strictly follow the spacing, typography, and color specifica
 
 ## 🎬 Demo Video
 
+![App Demo](./media/screen-20250424-231303.mp4)
 
 ## 📸 Screenshot
 

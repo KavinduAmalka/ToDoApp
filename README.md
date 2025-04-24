@@ -125,9 +125,26 @@ All design elements strictly follow the spacing, typography, and color specifica
 
 ## 📸 Screenshot
 
+<<<<<<< HEAD
 ## 🛠️ Technologies Used
 
 - React Native
 - Zustand for state management
 - AsyncStorage for local storage
 - React Native Share API
+=======
+
+## 🛠️ Technologies Used
+
+- React Native
+- Zustand for state management
+- AsyncStorage for local storage
+- React Native Share API
+
+
+
+
+
+
+
+>>>>>>> 9eb95910c81d91dec88f97b64a70d15e797c83a4

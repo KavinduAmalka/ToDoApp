@@ -125,14 +125,15 @@ All design elements strictly follow the spacing, typography, and color specifica
 
 ## 📸 Screenshot
 
-![App Screenshot](./media/Screenshot%202025-04-24%20221059.png)
-![App Screenshot](./media/Screenshot%202025-04-24%20221339.png)
-![App Screenshot](./media/Screenshot%202025-04-24%20221354.png)
-![App Screenshot](./media/Screenshot%202025-04-24%20221419.png)
-![App Screenshot](./media/Screenshot%202025-04-24%20221438.png)
-![App Screenshot](./media/Screenshot%202025-04-24%20221458.png)
-![App Screenshot](./media/Screenshot%202025-04-24%20221515.png)
-
+<p align="center">
+  <img src="./media/Screenshot-2025-04-24-221059.png" width="200"/>
+  <img src="./media/Screenshot-2025-04-24-221339.png" width="200"/>
+  <img src="./media/Screenshot-2025-04-24-221354.png" width="200"/>
+  <img src="./media/Screenshot-2025-04-24-221419.png" width="200"/>
+  <img src="./media/Screenshot-2025-04-24-221438.png" width="200"/>
+  <img src="./media/Screenshot-2025-04-24-221458.png" width="200"/>
+  <img src="./media/Screenshot-2025-04-24-221515.png" width="200"/>
+</p>
 
 ## 🛠️ Technologies Used
 

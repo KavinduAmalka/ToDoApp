@@ -122,7 +122,8 @@ All design elements strictly follow the spacing, typography, and color specifica
 
 ## 🎬 Demo Video
 
-![App Demo](./media/screen-20250424-231303.mp4)
+[🎬 Click to watch the demo](https://github.com/KavinduAmalka/ToDoApp/issues/2#issue-3018049543)
+
 
 ## 📸 Screenshot
 
